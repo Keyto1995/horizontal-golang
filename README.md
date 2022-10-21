@@ -24,3 +24,5 @@ $ export GIN_MODE=release
 $ go build -o build/app
 $ ./build/app
 ```
+- [x] /ping
+- [x] /clientIP
